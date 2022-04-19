@@ -2,7 +2,7 @@
 
 ## I'm 16 years old student studying at SSPS
 
--  I’m currently JavaScript and Unity Engine
+-  I’m currently learning JavaScript and Unity Engine
 -  2022 Goals: I would like to expand my knowledge in programming (JS) to a higher level.
 
 <br />
