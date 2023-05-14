@@ -1,9 +1,9 @@
 ###  Hi, I'm Matouš
 
-## I'm 16 years old student studying at SSPS
+## I'm 17 years old student studying at SSPS
 
--  I’m currently learning JavaScript and Unity Engine
--  2022 Goals: I would like to expand my knowledge in programming (JS) to a higher level.
+-  I’m currently learning JavaScript and React
+-  Goals: I would like to expand my knowledge in programming (JS) and front-end development.
 
 <br />
 
@@ -15,6 +15,8 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="GitHub" width="26px" 
+src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" />
 
 <br />
 
