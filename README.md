@@ -1,9 +1,8 @@
 ###  Hi, I'm Matouš
 
-## I'm 17 years old student studying at SSPS
+## I'm 18 years old student studying at SSPS
 
 -  I’m currently learning JavaScript and React
--  Goals: I would like to expand my knowledge in programming (JS) and front-end development.
 
 <br />
 
